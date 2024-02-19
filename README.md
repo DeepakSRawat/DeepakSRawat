@@ -23,11 +23,6 @@ I'm a passionate web developer and interested in front-end as well as back-end t
 ## 💻 Projects
 - Feel free to check out my projects in the [Projects](https://github.com/DeepakSRawat?tab=repositories) tab above.
 
-## 📫 Let's Connect
-<div align="left">
-  <a href="https://linkedin.com/in/deepaksrawat" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
-</div>
-
 ## 📈 GitHub Stats
 <div align="left">
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=deepakSrawat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /></a>
