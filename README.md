@@ -1,6 +1,7 @@
-# Hi there, I'm Deepak Singh Rawat! 👋
+# Hi there, I'm Deepak Singh Rawat! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" />
 <a href="#"><img src="https://komarev.com/ghpvc/?username=DeepakSRawat&label=VIEWS&base=200"/></a>
-<img align="right" height="200" src="https://media1.tenor.com/m/gyNDu8UeHA8AAAAd/looking-for-a-job-job.gif"  />
+<!--<img align="right" height="200" src="https://media1.tenor.com/m/gyNDu8UeHA8AAAAd/looking-for-a-job-job.gif"  />-->
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
 ###
 
