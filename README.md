@@ -7,6 +7,7 @@
 
 <p>I'm a passionate web developer and interested in front-end as well as back-end technologies. Here's a glimpse of my skills and what I'm currently learning.</p>
 
+###
 <a href="#"><img src="https://readme-typing-svg.demolab.com?font=roboto&duration=2500&pause=1000&color=FFFFFF&random=false&width=450&lines=Starting+my+day+with+blank+screen.;Starting+my+day+with+a+positive+mindset.;Starting+my+day+with+a+breakfast.;Starting+my+journey+with+simple+projects." alt="Typing SVG" /></a>
 
 ## 🚀 Skills
