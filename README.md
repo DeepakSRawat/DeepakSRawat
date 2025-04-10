@@ -33,6 +33,5 @@
 
 ###
 
-## 🎉 Fun Fact
-while I navigate the digital realms of coding, I'm also the undisputed champion of retro gaming on my trusty old computer. Who says you can't mix nostalgia with new-age tech wizardry? 😄✨
-
+## 🎉 hobby
+Rocking a low-spec PC with high-spec skills, I’m the desi gamer who thrives on light-tech glory, living by my motto: ‘Lag karega, par haar nahin manega!’ 😄🎮
